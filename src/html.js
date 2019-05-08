@@ -11,8 +11,8 @@ export default class HTML extends React.Component {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
         <meta name="author" content="Axel Springer Ideas Engineering GmbH"/>
 
-        <script async type="text/javascript" src="//d1tkl4ncuw8oqk.cloudfront.net/oil/ideas-engineering-io/1.2.5/oilstub.1.2.5-RELEASE.min.js"/>
-        <script async type="text/javascript" src="//d1tkl4ncuw8oqk.cloudfront.net/oil/ideas-engineering-io/1.2.5/oil.1.2.5-RELEASE.min.js"/>
+        <script async type="text/javascript" src="//d1tkl4ncuw8oqk.cloudfront.net/oil/ideas-engineering-io/1.3.0/oilstub.1.3.0-RELEASE.min.js"/>
+        <script async type="text/javascript" src="//d1tkl4ncuw8oqk.cloudfront.net/oil/ideas-engineering-io/1.3.0/oil.1.3.0-RELEASE.min.js"/>
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124834155-1"/>
 
         {this.props.headComponents}
